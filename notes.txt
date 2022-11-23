@@ -1,0 +1,7 @@
+Handling Action and Reducers
+-->Add reducer in redux store in main index.js by assigning path of reducer folder and add reducx in index.js of reducer file
+-->Add action creator in index.js of actions (with dispatch function)
+-->add action in types.js file
+-->Wire up action in component file where action creator will be called(req: connect from react-redux, * from actions,
+set actiosn in props, call action creator from props
+-->
